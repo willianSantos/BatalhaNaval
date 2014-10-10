@@ -1,6 +1,6 @@
 /*
- * Class 
+ * Class Ship has atributes of each ship of game.
  */
 public class Navio{
-    int 
+    boolean hits;           // boolean to know if ship was hit.
 }
