@@ -5,5 +5,3 @@ public class BatalhaNaval{
     // alteracao
   }
 }
-// teste
-// teste 2
